@@ -52,3 +52,6 @@ _**italic bold**_
 [gmail](http://www.gmail.com/)
 
 ifugiu
+
+![image]
+
