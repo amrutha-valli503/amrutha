@@ -12,3 +12,5 @@ __another bbold__
 *iatalic format*
 _
 _italic format 2_
+
+_**italic bold**_
