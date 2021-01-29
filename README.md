@@ -24,13 +24,13 @@ _**italic bold**_
     3. order33
 
 ## unoreder list
-@ 501
-@ 502
-@ 503
+- 501
+- 502
+- 503
     * CSE1
     * CSE2
     * CSE3
-@ 504
+- 504
     * cse4
     * cse5
     * cse6
