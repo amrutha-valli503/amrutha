@@ -16,9 +16,9 @@ _italic format 2_
 _**italic bold**_
 
 ## orderd list
-order1
-order2
-order3 
+1. order1
+2. order2
+3. order3 
     1. order31
     2. order32
     3. order33
